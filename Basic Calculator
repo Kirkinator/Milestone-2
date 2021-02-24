@@ -52,7 +52,7 @@ int main()
 	}
 	else // Lets the user know the inputs are wrong
 	{
-		printf("You have entered the wrong inputs\n");
+		printf("Please enter an option that is 1-4.\n");
 	}
 
 	return 0;
